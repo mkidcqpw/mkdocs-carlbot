@@ -7,7 +7,8 @@
     Do not underestimate how spammy your users will be with these commands, restricting them is recommended.
 
 | Name | Example | Usage |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- 
+cow       !cow
 | cat | !cat | Gives you a random cat. |
 | dog | !dog | Gives you a random dog. |
 | aww | !aww | Gives you a random cute animal. |
